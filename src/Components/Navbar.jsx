@@ -6,6 +6,7 @@ export default function Navbar(){
                 <div className="p-8  "><a className="text-2xl font-black text-gray-200 font-roboto" href="#">About me</a></div>
                 <div className="p-8  "><a className="text-2xl font-black text-gray-200 font-roboto" href="#">Contact</a></div>
                 <div className="p-8  "><a className="text-2xl font-black text-gray-200 font-roboto" href="#">Menu</a></div>
+                <br/>
             </div>
         </>
     )

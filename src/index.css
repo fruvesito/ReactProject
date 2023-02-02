@@ -2,3 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+*{
+  background-color: aquamarine;
+  max-width: 95vw;
+
+}
